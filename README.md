@@ -20,10 +20,10 @@ dependencies {
 }
 ```
 
-##Usage
+## Usage
 Please refer to the [wiki](https://github.com/vic797/prowebview/wiki) to know how to use it.
 
-##Contribute
+## Contribute
 ProWebView has a lot of features and not all of that features have been tested exhaustively; please report any bug you find. Thanks!
 
 ## Licence
